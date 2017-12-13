@@ -5,4 +5,5 @@
 <img src="https://s18.postimg.org/azr9bnbdl/larabiz4.png" width="1000px">
 <img src="https://s18.postimg.org/j59b9vci1/larabiz5.png" width="1000px">
 <img src="https://s18.postimg.org/vh7m95su1/larabiz1.png" width="1000px">
+<img src="https://s18.postimg.org/613qx9s6x/larabiz6.png" width="1000px">
 <img src="https://s18.postimg.org/vtz0fho09/larabiz2.png" width="1000px">
